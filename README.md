@@ -14,9 +14,9 @@ Idea original de Una Kravets: How Open Sourcing my personal Goals made me really
 - [X] Primera vez que di charlas en meetups:
   - Intro a ciencia de datos en Python Cali y Python Barranquilla
 - [X] Primera vez que organicé un meetup: Python Tuluá
-- [X] Finalizar carrera de Data Scientist en Datacamp
-- [X] Adoptar un gato
-- [X] Terminar el año sin una relación tóxica
+- [X] Finalicé carrera de Data Scientist en Datacamp
+- [X] Adopté un gato
+- [X] Terminé el año sin una relación tóxica
 
 ## Objetivos para 2019
 
