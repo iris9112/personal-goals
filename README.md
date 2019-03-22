@@ -45,3 +45,8 @@ Idea original de Una Kravets: How Open Sourcing my personal Goals made me really
 - Realizar retos en hackerrange
 - Tener una web personal
 - Empezar mi portafolio de proyectos
+
+¿Quieres saber algo más sobre mi?
+- [about-me](about-me.md)
+- [Repositorios inspiración](repositorios_inspiracion.md)
+- [Enlaces de interés](notas_isa.md)

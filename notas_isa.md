@@ -149,19 +149,17 @@ https://medium.freecodecamp.org/how-to-get-started-with-python-for-deep-learning
 
 [A Course in Machine Learning by Hal Daumé III](http://ciml.info/)
 
----------------------------- GRAFOS ---------------------------
+## Grafos
+
 https://networkx.github.io/documentation/stable/tutorial.html
-
-
 https://networkofthrones.wordpress.com/
 https://networkofthrones.wordpress.com/a-primer-on-network-analysis/
 https://networkofthrones.wordpress.com/a-science-of-networks/
 https://networkofthrones.wordpress.com/from-book-to-network/
-
 https://ernestocrespo13.wordpress.com/2012/11/25/creacion-de-grafos-con-networkx-parte-1/
 https://ernestocrespo13.wordpress.com/2013/02/02/creacion-de-grafos-con-networkx-parte-2/
 https://ernestocrespo13.wordpress.com/2013/02/13/creacion-de-grafos-con-networkx-parte-3-2/
-------------------------------------------------------------
+
 
 Revisar:
 https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Utilizando_Fetch
