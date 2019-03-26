@@ -1,6 +1,6 @@
 # Objetivos y planes
 
-Idea original de Una Kravets: How Open Sourcing my personal Goals made me really productive. Puedes hacer un fork de su repositorio. Y apoyada en la idea de cristinafsanz.
+Idea original de [Una Kravets: How Open Sourcing my personal Goals made me really productive](). Puedes hacer un fork de su [repositorio](https://github.com/una/personal-goals). Y lo descubrí gracias a [cristinafsanz](https://twitter.com/cristinafsanz).
 
 ## Retrospectiva 2018
 
