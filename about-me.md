@@ -14,9 +14,10 @@
 ## Charlas conferencias tech
 
 - [x] [Workshop en PyCon Colombia](https://2019.pycon.co/ponencias/creando-una-red-para-analizar-los-personajes-de-juego-de-tronos/), Bogotá
-- [] [Charla en PyCon Charlas](https://us.pycon.org/2019/schedule/presentation/340/), Cleveland, OH.
-- [] Charla en Fisol, Popayán
-- [] Charla en PyCon Brasil ó PyCon España ???
+- [ ] [Charla en PyCon Charlas](https://us.pycon.org/2019/schedule/presentation/340/), Cleveland, OH.
+- [ ] [Coach en Django Girls Cleveland](https://djangogirls.org/cleveland/#coach)
+- [ ] Charla en Fisol, Popayán
+- [ ] Charla en PyCon Brasil ó PyCon España ???
 
 ## Co-organización y Voluntariado en Conferencias
 
