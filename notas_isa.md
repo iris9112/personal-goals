@@ -185,3 +185,8 @@ Big Data University
 Libros
 Google class room
 kaggle
+
+
+https://github.com/790013438/Free-Algorithm-Books-1
+
+https://www.udemy.com/learn-python-3-from-beginner-to-advanced/learn/v4/overview
