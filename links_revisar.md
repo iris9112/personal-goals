@@ -1,4 +1,77 @@
-# Links revisar
+# Notas
+
+Listado de repositorios interesantes para revisar lueguito, clasificados por temas importantes para mi.
+
+## Python
+
+1. [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms)
+2. [All Algorithms implemented in Python ](https://github.com/TheAlgorithms/Python)
+3. https://github.com/karan/Projects-Solutions
+
+### software
+
+1. https://github.com/andrew--r/frontend-case-studies
+
+### Data science
+
+1. [Python Data Science Handbook: full text in Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+### Machine Learning
+
+1. [A complete daily plan for studying to become a machine learning engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+2. Practice and tutorial-style notebooks covering wide variety of machine learning techniques: https://github.com/tirthajyoti/Machine-Learning-with-Python  
+3. [VIP cheatsheets for Stanford's CS 229 Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
+
+## Trabajo
+
+1. [APIS con Django](https://github.com/agiliq/building-api-django)
+2. [Import csv to Segment](https://github.com/segmentio/segment-import)
+3. [RFM Analysis](https://github.com/blast-analytics-marketing/RFM-analysis)
+4. [RFM Analysis - other version](https://github.com/DionysiosZelios/RFM_analysis)
+5. [Django multiples tipos de usuarios](https://github.com/sibtc/django-multiple-user-types-example)
+
+## Listado de Proyectos para hacer
+
+1. It is a simple python package to play videos in the terminal using characters as pixels: https://github.com/joelibaceta/video-to-ascii
+
+## Awesome y roadmap
+
+1. [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
+2. https://github.com/bulutyazilim/awesome-datascience
+
+## JavaScript
+
+1. [Starter Files to Learn with ES6 for Everyone](https://github.com/wesbos/es6.io)
+2. [Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less](https://github.com/30-seconds/30-seconds-of-code)
+3. [30 Day Vanilla JS Challenge](https://github.com/wesbos/JavaScript30). Pag https://JavaScript30.com
+
+
+# Cursos primer semestre
+
+Antes de que se acabe este semestre completa:
+- [Curso ML de Digital Ocean](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
+- [Curso ML de Amazon](https://docs.aws.amazon.com/es_es/machine-learning/latest/dg/what-is-amazon-machine-learning.html)
+- [Curso ML de Fast.ai](https://www.fast.ai/)
+
+## Comunidades
+
+1. https://github.com/freeCodeCamp/how-to-contribute-to-open-source
+
+## Fractales
+
+1. https://github.com/danilobellini/fractal
+2. https://github.com/shiffman/The-Nature-of-Code-Examples-Python
+
+## English
+
+1. [Compilation of English learning resources taken from the slack community of Colombia Dev](https://github.com/jcrodriguezu/english_learning_resources)
+
+## Personal
+
+1. https://github.com/cristinafsanz/github-pages
+2. https://github.com/cristinafsanz/personal-goals
+3. https://github.com/williln/personal-goals
+
 
 ## trabajo
 
@@ -185,3 +258,11 @@ Big Data University
 Libros
 Google class room
 kaggle
+
+
+[Deep Learning Explainability: Hints from Physics](https://towardsdatascience.com/deep-learning-explainability-hints-from-physics-2f316dc07727)
+
+https://retina.elpais.com/retina/2019/01/25/tendencias/1548429275_846133.html?Id_externo_rsoc=TW_CM_RT
+
+https://www.ecured.cu/Inteligencia_de_enjambre
+
